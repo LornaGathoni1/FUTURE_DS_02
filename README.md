@@ -42,6 +42,22 @@ This project analyzes customer support tickets to identify common issues, respon
 3. Run the exploratory data analysis (EDA) scripts.
 4. Visualize key insights and generate reports.
 
+## Visualizations
+
+Here are some key visualizations from the analysis:
+
+### 1. Ticket Type Distribution  
+![Ticket Type Distribution](screenshots/ticket_type_distribution.png)
+
+### 2. Most Common Words in Ticket Distribution  
+![Most Common Words](screenshots/most_common_words_in_ticket_distribution.png)
+
+### 3. Distribution of Customer Satisfaction  
+![Customer Satisfaction](screenshots/distribution_of_customer_satisfaction.png)
+
+### 4. Chance of Resolution  
+![Chance of Resolution](screenshots/chance_of_resolution.png)
+
 ## Conclusion
 This project provides actionable insights to enhance customer support efficiency and improve satisfaction. By leveraging automation, self-service options, and proactive engagement strategies, businesses can optimize their support operations effectively.
 
